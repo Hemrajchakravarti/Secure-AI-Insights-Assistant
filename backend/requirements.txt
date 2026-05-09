@@ -1,0 +1,11 @@
+# Requires Python 3.10+
+
+fastapi>=0.100.0,<0.115.0
+uvicorn[standard]>=0.27.0,<0.35.0
+openai>=1.10.0,<2.0.0
+httpx>=0.25.0,<0.29.0
+chromadb>=0.4.22,<0.6.0
+sentence-transformers>=2.6.0,<4.0.0
+pandas>=1.5.0,<3.0.0
+pydantic>=2.0.0,<3.0.0
+python-dotenv>=1.0.0,<2.0.0
